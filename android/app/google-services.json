@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434405128476",
+    "project_id": "pointtrackingsystem-d1152",
+    "storage_bucket": "pointtrackingsystem-d1152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434405128476:android:dbc8806bad1d32adaaa2d9",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434405128476-3ffa30ddbh0ocprdpftqi16m1jgjhf53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ATal6JLb9tZmlRzyVBhJqM8Q6Y3uMQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434405128476-3ffa30ddbh0ocprdpftqi16m1jgjhf53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

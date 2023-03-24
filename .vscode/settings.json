@@ -1,0 +1,4 @@
+{
+    "dart.enableSnippets": true,
+    "C_Cpp.errorSquiggles": "disabled",
+}
